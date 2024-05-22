@@ -8,9 +8,6 @@ Este projeto realiza uma análise de preços ao longo do tempo utilizando métod
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Resultados](#resultados)
-- [Contribuição](#contribuição)
 - [Licença](#licença)
 
 ## Visão Geral
